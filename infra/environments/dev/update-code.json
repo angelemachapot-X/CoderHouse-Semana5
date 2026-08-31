@@ -1,0 +1,14 @@
+{
+  "ApplicationName": "dev-lakehouse-flink-job",
+  "CurrentApplicationVersionId": 1,
+  "ApplicationConfigurationUpdate": {
+    "ApplicationCodeConfigurationUpdate": {
+      "CodeContentUpdate": {
+        "S3ContentLocationUpdate": {
+          "BucketARNUpdate": "arn:aws:s3:::dev-datalake-YOUR_ACCOUNT_ID",
+          "FileKeyUpdate": "flink-artifacts/lakehouse-streaming-job.jar"
+        }
+      }
+    }
+  }
+}

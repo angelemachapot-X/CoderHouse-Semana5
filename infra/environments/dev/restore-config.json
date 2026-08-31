@@ -1,0 +1,5 @@
+{
+  "ApplicationRestoreConfiguration": {
+    "ApplicationRestoreType": "SKIP_RESTORE_FROM_SNAPSHOT"
+  }
+}
